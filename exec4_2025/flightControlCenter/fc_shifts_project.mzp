@@ -1,0 +1,16 @@
+{
+    "openFiles": [
+        "air_traffic_control_center.mzn",
+        "air_traffic0.dzn",
+        "air_traffic1.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "air_traffic0.dzn",
+        "air_traffic1.dzn",
+        "air_traffic_control_center.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
